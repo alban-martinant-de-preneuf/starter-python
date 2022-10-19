@@ -1,6 +1,3 @@
-from tempfile import _TemporaryFileWrapper
-
-
 letters = input("Entrez vos lettres : ")
 possibleWords = []
 
